@@ -1,0 +1,12 @@
+# Valid TUIC Configurations - TCP Test Passed
+# Generated on: 2026-02-19 03:48:05
+# Total valid configs: 8
+
+tuic://87bc1693-8860-41d7-acf4-e6edf49abbbb:crivAv10hAdr-fop4Lne@70.34.197.98:443?version=5&alpn=h3&congestion_control=bbr&udp_relay_mode=native#%F0%9F%87%B8%F0%9F%87%AA%20SE%20%7C%20TUIC%20%7C%20%40vipv2rey%20%231
+tuic://87bc1693-8860-41d7-acf4-e6edf49abbbb:crivAv10hAdr-fop4Lne@70.34.208.3:443?version=5&alpn=h3%2Cspdy%2F3.1&congestion_control=bbr&udp_relay_mode=native#%F0%9F%94%92%20TUIC-UDP%20%F0%9F%87%B8%F0%9F%87%AA%20SE-70.34.208.3%3A443
+tuic://87bc1693-8860-41d7-acf4-e6edf49abbbb:crivAv10hAdr-fop4Lne@70.34.197.98:443?version=5&alpn=h3%2Cspdy%2F3.1&congestion_control=bbr&udp_relay_mode=native#%F0%9F%94%92%20TUIC-UDP%20%F0%9F%87%B8%F0%9F%87%AA%20SE-70.34.197.98%3A443
+tuic://38e38f61-b1dd-4b34-90d0-f6222fd7393f:e7b1c11f0d40cc95@136.244.88.153:443?version=5&alpn=h3&sni=www.apple.com&congestion_control=bbr&udp_relay_mode=native#%F0%9F%94%92%20TUIC-UDP%20%F0%9F%87%A9%F0%9F%87%AA%20DE-136.244.88.153%3A443
+tuic://731a0ca6-ed14-4775-a6ac-acbcb324d572:Mashroote_Liberal2024@149.28.218.21:443?version=5&alpn=h3%2Cspdy%2F3.1&congestion_control=bbr&udp_relay_mode=native#%F0%9F%94%92%20TUIC-UDP%20%F0%9F%87%BA%F0%9F%87%B8%20US-149.28.218.21%3A443
+tuic://87bc1693-8860-41d7-acf4-e6edf49abbbb:crivAv10hAdr-fop4Lne@70.34.208.3:443?version=5&alpn=h3%2Cspdy%2F3.1&sni=ELiV2RAY.eliv2.top&congestion_control=bbr&udp_relay_mode=native#%F0%9F%94%92%20TUIC-UDP%20%F0%9F%87%B8%F0%9F%87%AA%20SE-70.34.208.3%3A443
+tuic://dfc04908-936e-4525-94a7-bd729d5f7d42:6ikEtHLn+sTihow2a41C@tuic8.iraniancpi.uk:443?version=5&alpn=h3%2Cspdy%2F3.1&sni=www.google.com&congestion_control=bbr&udp_relay_mode=native#irancpi_Tuic8
+tuic://dfc04908-936e-4525-94a7-bd729d5f7d42:6ikEtHLn+sTihow2a41C@tuic8.iraniancpi.uk:443?version=5&alpn=h3%2Cspdy&sni=www.google.com&congestion_control=bbr&udp_relay_mode=native
